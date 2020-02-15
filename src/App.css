@@ -1,0 +1,13 @@
+.HomeScreen{
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.iFrame{
+  padding: 0 10px;
+}
+
+.importData{
+  padding: 0 10px;
+}

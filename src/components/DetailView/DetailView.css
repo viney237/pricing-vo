@@ -1,0 +1,24 @@
+.HomeSection {
+    margin: 0 30px;
+}
+
+.DescriptionSec {
+    background: #fff;
+    display: inline-block;
+    height: auto;
+    margin-bottom: 30px;
+    position: relative;
+    width: 100%;
+}
+
+.card-shadow{
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+}
+
+.grid{
+    padding: 20px;
+}
+
+.spacing_div{
+    margin: 15px 0;
+}
